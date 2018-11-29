@@ -4,7 +4,7 @@ arr = [
   { id: 3, name: "tiga" }
 ];
 
-//buat output:
+//buat fungsi untuk output:
 //1 - satu
 //2 - dua
 //3 - tiga

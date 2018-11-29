@@ -5,4 +5,4 @@ arr = [
   { name: "empat", group: "siswa" }
 ];
 
-// // buat kode untuk menampilkan group siswa
+// // buat fungsi untuk menampilkan group siswa
